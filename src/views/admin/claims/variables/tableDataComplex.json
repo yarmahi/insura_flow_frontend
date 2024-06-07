@@ -1,0 +1,92 @@
+[
+  {
+    "claim_id": "Claim #001",
+    "policy_holder_id": "PH001",
+    "claimant_name": "John Doe",
+    "status": "Approved",
+    "date": "12.Mar.2023",
+    "progress": 100,
+    "incident_type": "Collision"
+  },
+  {
+    "claim_id": "Claim #002",
+    "policy_holder_id": "PH002",
+    "claimant_name": "Jane Smith",
+    "status": "Pending",
+    "date": "15.Feb.2023",
+    "progress": 60,
+    "incident_type": "Theft"
+  },
+  {
+    "claim_id": "Claim #003",
+    "policy_holder_id": "PH003",
+    "claimant_name": "Robert Johnson",
+    "status": "Rejected",
+    "date": "05.Jan.2023",
+    "progress": 0,
+    "incident_type": "Vandalism"
+  },
+  {
+    "claim_id": "Claim #004",
+    "policy_holder_id": "PH004",
+    "claimant_name": "Emily Davis",
+    "status": "Approved",
+    "date": "28.Dec.2022",
+    "progress": 100,
+    "incident_type": "Collision"
+  },
+  {
+    "claim_id": "Claim #005",
+    "policy_holder_id": "PH005",
+    "claimant_name": "Michael Brown",
+    "status": "In Review",
+    "date": "20.Nov.2022",
+    "progress": 75,
+    "incident_type": "Flood"
+  },
+  {
+    "claim_id": "Claim #006",
+    "policy_holder_id": "PH006",
+    "claimant_name": "Sarah Wilson",
+    "status": "Approved",
+    "date": "10.Oct.2022",
+    "progress": 100,
+    "incident_type": "Collision"
+  },
+  {
+    "claim_id": "Claim #007",
+    "policy_holder_id": "PH007",
+    "claimant_name": "David Martinez",
+    "status": "Pending",
+    "date": "25.Sep.2022",
+    "progress": 50,
+    "incident_type": "Theft"
+  },
+  {
+    "claim_id": "Claim #008",
+    "policy_holder_id": "PH008",
+    "claimant_name": "Laura Garcia",
+    "status": "Rejected",
+    "date": "15.Aug.2022",
+    "progress": 0,
+    "incident_type": "Vandalism"
+  },
+  {
+    "claim_id": "Claim #009",
+    "policy_holder_id": "PH009",
+    "claimant_name": "James Rodriguez",
+    "status": "In Review",
+    "date": "10.Jul.2022",
+    "progress": 80,
+    "incident_type": "Collision"
+  },
+  {
+    "claim_id": "Claim #010",
+    "policy_holder_id": "PH010",
+    "claimant_name": "Linda Harris",
+    "status": "Approved",
+    "date": "05.Jun.2022",
+    "progress": 100,
+    "incident_type": "Fire"
+  }
+]

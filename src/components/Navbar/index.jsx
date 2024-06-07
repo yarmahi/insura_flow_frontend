@@ -111,7 +111,7 @@ const Navbar = (props) => {
           }
           classNames={"py-2 top-4 -left-[230px] md:-left-[440px] w-max"}
         />
-        <div
+        {/* <div
           className="cursor-pointer text-gray-600"
           onClick={() => {
             if (darkmode) {
@@ -128,7 +128,7 @@ const Navbar = (props) => {
           ) : (
             <RiMoonFill className="h-4 w-4 text-gray-600 dark:text-white" />
           )}
-        </div>
+        </div> */}
         {/* Profile & Dropdown */}
         <Dropdown
           button={

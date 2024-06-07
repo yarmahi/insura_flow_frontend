@@ -2,9 +2,9 @@
 
 import { HiX } from "react-icons/hi";
 import Links from "./Links";
-import routes from "../../routes";
+import agentRoutes from "../../agentRoutes";
 
-const Sidebar = ({ open, onClose }) => {
+const AgentSidebar = ({ open, onClose }) => {
   return (
     <div
       className={`sm:none duration-175 linear fixed !z-50 flex min-h-full flex-col bg-white pb-10 shadow-2xl shadow-white/5 transition-all dark:!bg-navy-800 dark:text-white md:!z-50 lg:!z-50 xl:!z-0 ${
@@ -27,10 +27,10 @@ const Sidebar = ({ open, onClose }) => {
       {/* Nav item */}
 
       <ul className="mb-auto pt-1">
-        <Links routes={routes} />
+        <Links routes={agentRoutes} />
       </ul>
     </div>
   );
 };
 
-export default Sidebar;
+export default AgentSidebar;
